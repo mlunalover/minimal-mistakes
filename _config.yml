@@ -10,10 +10,10 @@ locale                   : "en"
 title                    : "Matt Lunalover"
 title_separator          : "-"
 name                     : "Matt Lunalover"
-description              : "An amazing website."
-url                      : "matthewlunalover.com"
+description              : "Where you can find me."
+url                      : "https://mlunalover.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "/home"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Matt Lunalover"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "animal lover, husband, amateur handyman, foodie, front-end developer"
+  bio              : "animal lover, husband, amateur handyman, front-end developer, foodie"
   location         : "Atlanta, GA"
   email            :
   uri              :
