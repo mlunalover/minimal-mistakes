@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Home"
+title                    : "Blog"
 title_separator          : "-"
 name                     : "Matt Lunalover"
 description              : "Where you can find me."
@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "mlunalover"
 facebook:
-  username               :
+  username               : "mlunalover"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -242,5 +242,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
