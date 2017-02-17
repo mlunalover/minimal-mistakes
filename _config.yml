@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Matt Lunalover"
+title                    : "Home"
 title_separator          : "-"
 name                     : "Matt Lunalover"
 description              : "Where you can find me."
 url                      : "https://mlunalover.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "/home"
+repository               : "mlunalover/mlunalover.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -70,9 +70,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-68721032-1"
 
 
 # Site Author
@@ -82,7 +82,7 @@ author:
   bio              : "animal lover, husband, amateur handyman, front-end developer, foodie"
   location         : "Atlanta, GA"
   email            :
-  uri              :
+  uri              : "https://matthewlunalover.com"
   bitbucket        :
   codepen          :
   dribbble         :
