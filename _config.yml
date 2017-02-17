@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Matt Lunalover"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Matt Lunalover"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "matthewlunalover.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -77,30 +77,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Matt Lunalover"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "animal lover, husband, amateur handyman, foodie, front-end developer"
+  location         : "Atlanta, GA"
   email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "mlunalover"
   foursquare       :
-  github           :
+  github           : "mlunalover"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "rebelrawfood"
   lastfm           :
-  linkedin         :
+  linkedin         : "matthew-lunalover-42b58538"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "mlunalover"
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "mlunalover"
   vine             :
   weibo            :
   xing             :
