@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Matt Lunalover"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/matt_tt_gardens.jpg"
   bio              : "animal lover, husband, amateur handyman, front-end developer, foodie"
   location         : "Atlanta, GA"
   email            :
